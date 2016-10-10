@@ -5,4 +5,5 @@ package com.example.sometext;
  */
 public class Branch1 {
     //Branch1测试
+    //Branch1测试
 }
